@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61088eb-cd82-45b4-a24c-21775f76ca65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MortgageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MortgageReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -25,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BBZpQkghaIfAMlS0CeyCIHTXll" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +41,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="MortgageCalculator" />
+      <recent name="MortageCalculator" />
+      <recent name="MortageReport" />
       <recent name="Console" />
     </key>
   </component>
